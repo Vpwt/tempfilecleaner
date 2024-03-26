@@ -1,4 +1,6 @@
 Clear Temp Folders for All Users on Windows
+
+
 This script is designed to help maintain a clean Windows operating system by automating the process of clearing the temp folders for all users. It safely removes temporary files that can accumulate over time and take up disk space.
 
 Features
